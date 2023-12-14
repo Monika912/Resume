@@ -1,0 +1,265 @@
+img {
+    border-radius: 50%;
+    width: 12%;
+    margin-left: 50px;
+    margin-top: 10px ;
+}
+
+#H1{
+    border: 1px solid #182747;
+    background-color:#182747 ;
+    width: 780px;
+    margin-top: -145px;
+    margin-left: 300px;
+    height: 120px;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: white;
+    font-family: sans-serif;
+}
+
+#hr2{
+    color: white;
+    margin-right: 800px;
+    margin-top: 10px;
+    width: 180px;
+}
+
+#P8{
+    font-size: small;
+    padding-right: 50px;
+    font-weight: lighter;
+}
+
+#L1::before {
+    content: ""; 
+    background-image: url('email1.jpg');
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    display: inline-block; 
+    width: 20px;
+    height: 50px; 
+    margin-left: 50px; 
+    margin-top: -1130px;
+    position: absolute;
+}
+
+#I1{
+    font-size: large;
+    margin-left: 50px;
+    margin-top: -1130px;
+}
+
+#L2::before {
+    content: ""; 
+    background-image: url('phone.png');
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 50px; 
+    margin-left: 50px; 
+    margin-top: 2px;
+    position: absolute;
+}
+
+.I2{
+    font-size: large;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+#L3::before {
+    content: ""; 
+    background-image: url('location.png');
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    width: 20px; 
+    height: 50px; 
+    margin-left: 50px;
+    margin-top: 2px;
+    position: absolute;
+}
+
+#L4::before {
+    content: ""; 
+    background-image: url('calendar.png');
+    background-size: contain; 
+    background-repeat: no-repeat;
+    width: 20px; 
+    height: 50px;
+    margin-left: 50px; 
+    margin-top: 2px;
+    position: absolute;
+}
+
+#L5::before {
+    content: ""; 
+    background-image: url('github.png');
+    background-size: contain; 
+    background-repeat: no-repeat; 
+    width: 20px; 
+    height: 50px; 
+    margin-left: 50px; 
+    margin-top: 2px;
+    position: absolute;
+}
+
+#h31{
+    margin-left: 50px;
+    margin-top: -780px;
+}
+
+.hr1{
+    width: 180px;
+    margin-left: -1px;
+    border : 1px solid black;
+}
+
+#P1{
+    border: 1px solid #7F8487;
+    margin-left: 50px;
+    width: 180px;
+    font-size: large;
+    background-color: #7F8487;
+    color: white;
+    padding-left: 10px;
+    border-radius: 5px;
+    height: 50px;
+}
+
+#P2{
+    border: 1px solid #7F8487;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 180px;
+    font-size: large;
+    background-color: #7F8487;
+    color: white;
+    padding-left: 10px;
+    border-radius: 5px;
+    height: 65px;
+}
+
+.P3{
+    border: 1px solid #7F8487;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 170px;
+    font-size: large;
+    background-color: #7F8487;
+    color: white;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+#P4{
+    border: 1px solid #7F8487;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 90px;
+    font-size: large;
+    background-color: #7F8487;
+    color: white;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.h3{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+#P5{
+    margin-left: 50px;
+    font-size: large;
+}
+
+#P6{
+    border: 1px solid black;
+    font-size: large;
+    margin-left: 50px;
+    width: 80px;
+    padding-left: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 3px;
+}
+
+#P7{
+    border: 1px solid black;
+    font-size: large;
+    margin-left: 50px;
+    width: 120px;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-radius: 3px;
+}
+
+.P9{
+    margin-left: 300px;
+    margin-top: 30px;
+    font-size: large;
+}
+
+.hr3{
+    width: 800px;
+    margin-left: -1px;
+    border : 1px solid black;
+}
+
+.P10{
+    margin-left: 300px;
+    font-size:  large;
+    margin-top: 10px;
+}
+
+#P11{
+    margin-left: 300px;
+    margin-top: 10px;
+    font-size: large;
+}
+#P12{
+    margin-left: 300px;
+    margin-top: -20px;
+    font-size: large;
+}
+
+#P13{
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+ul{
+    margin-left: 270px;
+    margin-top: -10px;
+}
+
+#P14{
+    margin-left: 300px;
+    font-size: large;
+}
+
+#P15{
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+.List1{
+    margin-left: 300px;
+    font-size: large;
+}
+
+.P16{
+    margin-top: 20px;
+    margin-left: -35px;
+    font-size: large;
+}
+
+#List2{
+    font-size: large;
+}
+
+
+
+
